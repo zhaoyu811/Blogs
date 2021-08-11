@@ -40,10 +40,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 image 1:
 
-![image1](https://raw.githubusercontent.com/zhaoyu811/Images/master/1.png)
+![image1](./img/1.png)
 
 image 2:
 
-![image2](https://raw.githubusercontent.com/zhaoyu811/Images/master/1.png)
+![image2](./img/2.png)
 
 image 3:![](https://www.baidu.com/img/flexible/logo/pc/result.png)
