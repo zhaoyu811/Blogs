@@ -1,3 +1,12 @@
+---
+title: "RTMP服务器初体验"
+date: 2021-08-11T18:57:32+08:00
+draft: false
+featuredImg: ""
+tags: 
+  - RTMP
+  - ffmpeg
+---
 # RTMP服务器初体验
 
 ## 1. 运行环境
@@ -97,5 +106,5 @@ ffplay.exe -i rtmp://192.168.110.129:1935/App/test
 
 ## 5.效果
 
-![效果图](./img/rtmp服务器初体验-1.png)
+![效果图](/images/rtmp服务器初体验-1.png)
 

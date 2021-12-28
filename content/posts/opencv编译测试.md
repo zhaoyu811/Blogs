@@ -1,3 +1,12 @@
+---
+title: "OpenCv编译测试"
+date: 2021-08-11T17:53:55+08:00
+draft: false
+featuredImg: ""
+tags: 
+  - OpenCv
+  - Qt
+---
 # OPENCV编译测试
 
 ## 1.Ubuntu编译
@@ -23,15 +32,15 @@
 
 第一步
 
-![opencv编译测试-1](./img/opencv编译测试-1.png)
+![opencv编译测试-1](/images/opencv编译测试-1.png)
 
 第二步 选择编译器
 
-![opencv编译册俄式-2](./img/opencv编译测试-2.png)
+![opencv编译册俄式-2](/images/opencv编译测试-2.png)
 
 
 
-![opencv编译测试-3](./img/opencv编译测试-3.png)
+![opencv编译测试-3](/images/opencv编译测试-3.png)
 
 ```
 C:\Qt\Qt5.12.11\Tools\mingw730_64\bin\gcc.exe
@@ -40,7 +49,7 @@ C:\Qt\Qt5.12.11\Tools\mingw730_64\bin\g++.exe
 
 第三步 确保配置项正确，同时勾选withQt选项
 
-![opencv编译测试-4](./img/opencv编译测试-4.png)
+![opencv编译测试-4](/images/opencv编译测试-4.png)
 
 第四步 勾选WITH-QT ，再次Configure，同时确保各个QT配置之项正确，
 

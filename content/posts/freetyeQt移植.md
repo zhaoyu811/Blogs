@@ -1,3 +1,13 @@
+---
+title: "freetype QT移植"
+date: 2021-10-30T11:42:26+08:00
+draft: false
+featuredImg: ""
+tags: 
+  - QT
+  - freetype
+---
+
 # freetype QT移植
 
 ## 下载

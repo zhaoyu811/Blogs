@@ -1,0 +1,7 @@
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://hub.fastgit.org/Track3/hermit.git
+[submodule "public"]
+	path = public
+	url = git@github.com:zhaoyu811/zhaoyu811.github.io.git
+	branch = master
