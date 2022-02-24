@@ -1,2 +1,2 @@
-hugo --theme=hermit --baseUrl="http://zhaoyu811.github.io/"
+hugo --theme=hermit --baseUrl="https://zhaoyu811.github.io/"
 hugo server --theme=hermit --buildDrafts
